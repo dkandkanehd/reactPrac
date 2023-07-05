@@ -1,1 +1,1 @@
-# Vanilla-Redux And React-Redux practice
+# React-Redux practice
